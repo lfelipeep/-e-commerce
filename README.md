@@ -1,6 +1,5 @@
 # -e-commerce
  e-commerce
-# 📄 README - Base de Datos e-commerce
 
 ## Descripción
 
@@ -14,7 +13,7 @@ La base de datos satisface las siguientes necesidades:
 
 ---
 
-## 📚 Instrucciones SQL usadas
+## Instrucciones SQL usadas
 
 ### 1. Creación de la base de datos
 
@@ -77,7 +76,7 @@ CREATE TABLE compras (
 
 ---
 
-## 🗃️ Inserción de tres registros
+##  Inserción de tres registros
 
 ### Usuarios
 
