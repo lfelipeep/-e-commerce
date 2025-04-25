@@ -6,10 +6,10 @@
 En este proyecto creé una base de datos en MySQL para una aplicación de tipo e-commerce.
 La base cumple con estas caracteristicas:
 
-- Registro y autenticación de usuarios.
+- Creación y autenticación de usuarios.
 - Catálogo de productos.
 - Guardado de productos en el carrito de compras.
-- Realización de compras a través de una pasarela de pagos.
+- Compras de productos a través de una pasarela de pagos.
 
 ---
 
