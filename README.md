@@ -3,8 +3,8 @@
 
 ## Descripción
 
-En este proyecto creé una base de datos en MySQL para una aplicación de tipo *e-commerce*.
-La base de datos satisface las siguientes necesidades:
+En este proyecto creé una base de datos en MySQL para una aplicación de tipo e-commerce.
+La base cumple con estas caracteristicas:
 
 - Registro y autenticación de usuarios.
 - Catálogo de productos.
